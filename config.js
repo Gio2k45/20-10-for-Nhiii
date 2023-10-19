@@ -1,4 +1,4 @@
-const nameGirl = 'Phải Nhi nhấn vào đii';
+const nameGirl = 'For Yếnn Nhiii';
 // const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc Mừng 20-10';
 const titleCard = 'Đỗ Thị Yến Nhi';
